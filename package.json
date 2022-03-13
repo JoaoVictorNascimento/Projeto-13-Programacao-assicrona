@@ -1,0 +1,24 @@
+{
+  "name": "projeto-13-programacao-assicrona",
+  "version": "1.0.0",
+  "description": "Estudando programacao assícrona",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoaoVictorNascimento/Projeto-13-Programacao-assicrona.git"
+  },
+  "author": "João Victor Nascimento",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoaoVictorNascimento/Projeto-13-Programacao-assicrona/issues"
+  },
+  "homepage": "https://github.com/JoaoVictorNascimento/Projeto-13-Programacao-assicrona#readme",
+  "dependencies": {
+    "install": "^0.13.0",
+    "node-fetch": "^3.2.3"
+  }
+}
